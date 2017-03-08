@@ -4,7 +4,7 @@ BLUE='\033[0;44;30m'
 STD='\033[0;0;39m'
 
  ###### MODIFY ##############################################
-export subscription_id="ff4c2ac5-d6cc-4aaf-b3f3-0660a6283505"
+export subscription_id="000000-0000-0000-0000-00000000"
 #get ID from:
 #azure account list
 
