@@ -57,7 +57,7 @@ command_exists () {
 
 read_options(){
 	local choice
-	read -p "Enter choice [ 1 - 4] " choice
+	read -p "Enter choice [ 1 - 6] " choice
 	case $choice in
 		1) login_azure ;;
 		2) create_hadoop_cluster ;;
